@@ -1,7 +1,7 @@
 {
-  "chunk_size": 800,
-  "overlap": 200,
-  "total_chunks": 788,
+  "chunk_size": 1000,
+  "overlap": 100,
+  "total_chunks": 607,
   "sources": [
     {
       "source": "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS49",
@@ -9,35 +9,31 @@
     },
     {
       "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
-      "chunk_count": 11
+      "chunk_count": 9
     },
     {
       "source": "CS 373 WHAT IN THE ACTUAL F.... : OSUOnlineCS",
-      "chunk_count": 27
+      "chunk_count": 26
+    },
+    {
+      "source": "CS 467 - Thougts : OSUOnlineCS",
+      "chunk_count": 21
     },
     {
       "source": "CS 499 Vertically Integrated Projects : OSUOnlineCS",
       "chunk_count": 5
     },
     {
-      "source": "CS \u2013 Ecatalog Subject List \u2013 Schedule of Classes | Oregon State Ecampus | OSU Degrees Online",
-      "chunk_count": 99
-    },
-    {
       "source": "CS332 Intro to Data Science and CS432 Intro to Machine Learning - Good Classes, heavy heavy workload",
-      "chunk_count": 21
-    },
-    {
-      "source": "Computer Science - Applied Major (BS, HBS) < Oregon State University",
-      "chunk_count": 5
+      "chunk_count": 19
     },
     {
       "source": "Course Reviews (Responses) - Form Responses 1",
-      "chunk_count": 564
+      "chunk_count": 474
     },
     {
       "source": "Did they revamp CS 372 (Introduction to Computer Networks)? : OSUOnlineCS",
-      "chunk_count": 15
+      "chunk_count": 14
     },
     {
       "source": "Finally accepted! Winter 2026 start : OSUOnlineCS",
@@ -45,7 +41,7 @@
     },
     {
       "source": "What Classes will help you get a Job ? : OSUOnlineCS",
-      "chunk_count": 15
+      "chunk_count": 13
     }
   ]
 }

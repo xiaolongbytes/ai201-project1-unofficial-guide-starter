@@ -1,0 +1,126 @@
+CS 467 - Thougts
+
+---
+
+I am taking this class this term, honestly I am very disappointed with this class.
+What’s up with all these discussion posts assignments with minimum words count and minimum 2 replies? Did not we do all this busy work to death in 361?
+Why are we doing code review discussion posts with minimum code lines count? Did not we do this extensively in 362?
+What’s up with allowing students to use GenAI to produce code as long as you are citing it?
+Instead of focusing on developing a high standard project to show off for, the class is focused mainly on busy work, they really don’t care if you deliver a working project as long as you do the weekly reports and show that put in hours.
+It is a 400 level capstone class ffs not a 200 or 300 level class, another $2k down the drain.
+
+---
+
+[In reply to: "CS 467 - Thougts"]
+
+What’s up with allowing students to use GenAI to produce code as long as you are citing it?
+Tbf, that’s what working as a SWE is like.
+Congrats on your imminent graduation!
+
+---
+
+[In reply to: "What’s up with allowing students to use GenAI to produce code as long as you are citing it?
+Tbf, that’s what working as a SWE is like.
+Congrats on your imminent graduation!"]
+
++1 to this. I work with software engineers with decades of experience and everyone's using it at this point. You can't really stop people from doing it, and companies are almost expecting it now.
+
+---
+
+[In reply to: "CS 467 - Thougts"]
+
+I took this class via ecampus with network security (cs 478)  which was also a very work intensive, project based class. I can def say 467 was largely a waste of time. The assignments were graded harshly (we often lost points for things that were not mentioned in the rubrics)  and most of the discussions seemed like busy work. I initially had a team of 3 people working on a project involving cybersecurity but one dropped out mid term and after that the teams plans went completely out the window. Somehow I got a B in the class but it was a miserable experience. Perhaps osu should either restructure the capstone project class or allow the internship/research courses to be taken in its place
+
+---
+
+[In reply to: "I took this class via ecampus with network security (cs 478)  which was also a very work intensive, project based class. I can def say 467 was largely a waste of time. The assignments were graded harshly (we often lost points for things that were not mentioned in the rubrics) …"]
+
+There is an option that's like that:
+https://engineering.oregonstate.edu/EECS/vip
+
+---
+
+[In reply to: "There is an option that's like that:
+https://engineering.oregonstate.edu/EECS/vip"]
+
+Oh man, I wish my friends and I had known about that earlier. We are taking Capstone in the fall together, and for my friends it will be their last term (I'll have a winter term) so they couldn't do the VIP program with me in two terms.
+
+---
+
+[In reply to: "There is an option that's like that:
+https://engineering.oregonstate.edu/EECS/vip"]
+
+Don’t know how the in person degree handles it but for the ecampus degree the online capstone is required but research/internships are not
+
+---
+
+[In reply to: "Don’t know how the in person degree handles it but for the ecampus degree the online capstone is required but research/internships are not"]
+
+I'm specifically speaking about the eCampus degree, I know nothing about the in-person degree. The option that I linked to is available in lieu of the Capstone, you just were not aware of it.
+
+---
+
+[In reply to: "I'm specifically speaking about the eCampus degree, I know nothing about the in-person degree. The option that I linked to is available in lieu of the Capstone, you just were not aware of it."]
+
+Mydegrees must have decieved me
+
+---
+
+[In reply to: "Mydegrees must have decieved me"]
+
+yeah, it's not listed on there. talk to your advisor about that program if it sounds interesting to you.
+
+---
+
+[In reply to: "yeah, it's not listed on there. talk to your advisor about that program if it sounds interesting to you."]
+
+I am doing a postbacc in cs though
+
+---
+
+[In reply to: "I am doing a postbacc in cs though"]
+
+yes I know
+
+---
+
+[In reply to: "I am doing a postbacc in cs though"]
+
+CS467 is only for Post-Bacc students. Regular 4 year BS students have a 3 term class they do.
+
+---
+
+[In reply to: "CS 467 - Thougts"]
+
+Jesus. I just started the program and this doesn’t bode well. I’m already annoyed with having to take stupid classes like ENGR 310, which is a waste of my time and money. Data Structures better not have discussion posts.
+
+---
+
+[In reply to: "Jesus. I just started the program and this doesn’t bode well. I’m already annoyed with having to take stupid classes like ENGR 310, which is a waste of my time and money. Data Structures better not have discussion posts."]
+
+if you're taking ENGR 103 (not 310), then you aren't doing the post-bacc which requires CS467.  You'll instead be doing a Senior Design project which runs over 3 quarters instead of just 1.
+
+---
+
+[In reply to: "if you're taking ENGR 103 (not 310), then you aren't doing the post-bacc which requires CS467.  You'll instead be doing a Senior Design project which runs over 3 quarters instead of just 1."]
+
+Thanks for letting me know!
+
+---
+
+[In reply to: "Jesus. I just started the program and this doesn’t bode well. I’m already annoyed with having to take stupid classes like ENGR 310, which is a waste of my time and money. Data Structures better not have discussion posts."]
+
+Don't get discouraged. The degree(s) were originally designed for high schoolers starting college with no real world experience. Many of the concepts, while engineering-focused, easily map to experiences anyone working in a career would recognize. Because of this, often times, the assignments feel like busy work for those of us already familiar.
+I also don't want to pretend that all the material is useful, though. There are plenty of examples in courses where the information is dated, constraints in the material are absurd, or the instructor lacks real world experience. When you accept that CS knowledge is a constantly moving target, you start to recognize why decisions were made the way they were, regardless of outcome. Tough it through though, it will be worth it.
+
+---
+
+[In reply to: "Don't get discouraged. The degree(s) were originally designed for high schoolers starting college with no real world experience. Many of the concepts, while engineering-focused, easily map to experiences anyone working in a career would recognize. Because of this, often times,…"]
+
+Thanks you! This is good to know! I'm an automation engineer so coding isn't an issue, I just need the degree to get a promotion at my job.
+
+---
+
+[In reply to: "Jesus. I just started the program and this doesn’t bode well. I’m already annoyed with having to take stupid classes like ENGR 310, which is a waste of my time and money. Data Structures better not have discussion posts."]
+
+Following the project expectations along with the things listed out on rubrics is key (along with working well with your teammates)

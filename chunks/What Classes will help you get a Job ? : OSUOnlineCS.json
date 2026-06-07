@@ -59,49 +59,35 @@
     "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__8",
     "source": "What Classes will help you get a Job ? : OSUOnlineCS",
     "chunk_index": 8,
-    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nYou will remember somethings and forget most of it.\nDo you think you can retain 11 weeks of information easily? No one can man, only some freaks can and even then they probably dont use it all. Alot of courses end up reminding you of certain things because many things dont stay fresh.\nDont worry so much man, just take the things that interest you, its dumb to take things because of a job choice. All the core classes are pretty much the only ones you truly need, anything else is just fluff padded out to make the tuition cost greater.\nIf you take courses thst dont interest you cause some random joe schoomoe told you itd worthh it you'll hate it and then you'll have to slog through some wack ass course that you dont like.\nI personally t",
-    "char_length": 800
+    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nYou will remember somethings and forget most of it.\nDo you think you can retain 11 weeks of information easily? No one can man, only some freaks can and even then they probably dont use it all. Alot of courses end up reminding you of certain things because many things dont stay fresh.\nDont worry so much man, just take the things that interest you, its dumb to take things because of a job choice. All the core classes are pretty much the only ones you truly need, anything else is just fluff padded out to make the tuition cost greater.\nIf you take courses thst dont interest you cause some random joe schoomoe told you itd worthh it you'll hate it and then you'll have to slog through some wack ass course that you dont like.\nI personally took as many low level and mathematical courses I could take cause that interest me, if I was interested in other things id go for that instead.",
+    "char_length": 943
   },
   {
     "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__9",
     "source": "What Classes will help you get a Job ? : OSUOnlineCS",
     "chunk_index": 9,
-    "text": "ou take courses thst dont interest you cause some random joe schoomoe told you itd worthh it you'll hate it and then you'll have to slog through some wack ass course that you dont like.\nI personally took as many low level and mathematical courses I could take cause that interest me, if I was interested in other things id go for that instead.",
-    "char_length": 343
+    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nIt depends on what job you have. There’s a wide variety of career paths you can take that do not overlap.\nCodePath offers free classes as well for a bunch of topics, and I found them valuable.\nAlso, a lot of the most valuable learnings are outside of classes. Classes are just the beginning/intro. You have to practice it on your own.",
+    "char_length": 391
   },
   {
     "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__10",
     "source": "What Classes will help you get a Job ? : OSUOnlineCS",
     "chunk_index": 10,
-    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nIt depends on what job you have. There’s a wide variety of career paths you can take that do not overlap.\nCodePath offers free classes as well for a bunch of topics, and I found them valuable.\nAlso, a lot of the most valuable learnings are outside of classes. Classes are just the beginning/intro. You have to practice it on your own.",
-    "char_length": 391
+    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nLeetcode",
+    "char_length": 65
   },
   {
     "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__11",
     "source": "What Classes will help you get a Job ? : OSUOnlineCS",
     "chunk_index": 11,
-    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nLeetcode",
-    "char_length": 65
+    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nThe only classes I took that were slightly relevant to work are:\nProjects (basically make a personal project and record weekly updates for the instructor for accountability)\nCapstone (basically a preview of what hackathons are like, which sometimes happens at work)\nDatabases (SQL is eternal)\nFundamentals of Programming Languages (basically learn how to learn new programming languages)\nAcademic classwork is not representative of real work. Most of my time at work involves adding new features/bugfixes to huge existing codebases, helping other people troubleshoot their problems, meetings, code review, performance management, corporate volunteering, compliance coursework. There wasn't a single course at OSU that really covered any of those things. There will never be a situation where you just build an app by yourself that has a very strict list of requirements, like you will in almost every single OSU class. In actual jobs you need",
+    "char_length": 999
   },
   {
     "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__12",
     "source": "What Classes will help you get a Job ? : OSUOnlineCS",
     "chunk_index": 12,
-    "text": "[In reply to: \"What Classes will help you get a Job ?\"]\n\nThe only classes I took that were slightly relevant to work are:\nProjects (basically make a personal project and record weekly updates for the instructor for accountability)\nCapstone (basically a preview of what hackathons are like, which sometimes happens at work)\nDatabases (SQL is eternal)\nFundamentals of Programming Languages (basically learn how to learn new programming languages)\nAcademic classwork is not representative of real work. Most of my time at work involves adding new features/bugfixes to huge existing codebases, helping other people troubleshoot their problems, meetings, code review, performance management, corporate volunteering, compliance coursework. There wasn't a single course at OSU that really covered any of tho",
-    "char_length": 800
-  },
-  {
-    "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__13",
-    "source": "What Classes will help you get a Job ? : OSUOnlineCS",
-    "chunk_index": 13,
-    "text": "her people troubleshoot their problems, meetings, code review, performance management, corporate volunteering, compliance coursework. There wasn't a single course at OSU that really covered any of those things. There will never be a situation where you just build an app by yourself that has a very strict list of requirements, like you will in almost every single OSU class. In actual jobs you need to work with downstream customers of your code to give them what they want, and also hassle the people upstream of you, to give you the support that you need to do your job.\nEmployers do not care about your classwork. They know that its not really relevant to what daily work is really like. Employers just want to make sure that you can learn new things easily, and can troubleshoot problems by your",
-    "char_length": 800
-  },
-  {
-    "chunk_id": "What Classes will help you get a Job ? : OSUOnlineCS__14",
-    "source": "What Classes will help you get a Job ? : OSUOnlineCS",
-    "chunk_index": 14,
-    "text": "t your classwork. They know that its not really relevant to what daily work is really like. Employers just want to make sure that you can learn new things easily, and can troubleshoot problems by yourself. For context, I did Devops for one year, and now I'm doing Data Engineer.",
-    "char_length": 278
+    "text": "trict list of requirements, like you will in almost every single OSU class. In actual jobs you need to work with downstream customers of your code to give them what they want, and also hassle the people upstream of you, to give you the support that you need to do your job.\nEmployers do not care about your classwork. They know that its not really relevant to what daily work is really like. Employers just want to make sure that you can learn new things easily, and can troubleshoot problems by yourself. For context, I did Devops for one year, and now I'm doing Data Engineer.",
+    "char_length": 578
   }
 ]

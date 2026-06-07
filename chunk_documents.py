@@ -13,8 +13,8 @@ import re
 # ---------------------------------------------------------------------------
 # Constants — edit these to tune chunking
 # ---------------------------------------------------------------------------
-CHUNK_SIZE = 800    # maximum characters per chunk
-OVERLAP    = 200    # characters of overlap between consecutive chunks
+CHUNK_SIZE = 1000    # maximum characters per chunk
+OVERLAP    = 100    # characters of overlap between consecutive chunks
 # ---------------------------------------------------------------------------
 
 DOCUMENTS_DIR = Path(__file__).resolve().parent / "documents"
