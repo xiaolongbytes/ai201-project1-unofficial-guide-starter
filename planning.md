@@ -97,13 +97,17 @@ Due to the audience of this tool (students attending or considering Oregon State
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
+Note, I had to adjust some of my original questions due to some of my original data sources being less helpful than I expected. For example, I had originally had the course catalog and program requirements as sources, but AI struggled to retrieve information from those sources to answer questions, so I pivoted to using more student generated content from reddit.
+
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | "Can I not take CS 225?" | "No, CS 225 is a required course per the curriculum requirements. Source: [link to source]" |
-| 2 | "Should I take CS 225?" | "Yes, CS 225 is a required course per the curriculum requirements. Source: [link to source]" |
-| 3 | "Should I take CS 373 as one of my elective choices?" | "Student sentiment is negative based on reviews, so probably not. Source: [link to source]" |
+| ~~1~~ | ~~"Can I not take CS 225?"~~ | ~~"No, CS 225 is a required course per the curriculum requirements. Source: [link to source]"~~ |
+| ~~2~~ | ~~"Should I take CS 225?"~~ | ~~"Yes, CS 225 is a required course per the curriculum requirements. Source: [link to source]"~~ |
+| 1 | "How many hours a week does cs 261 data structures take?" | "Based on student reviews, CS 261 takes around 10-15 hours a week. Source: [link to source]" |
+| 2 | "How hard is cs 493 cloud application development?" | "Based on student reviews, CS 493 is considered a easy course, with a difficulty rating of around 2 out of 5. Source: [link to source]" |
+| 3 | "Should I take CS 373 defense against the dark arts as one of my elective choices?" | "Student sentiment is negative based on reviews, so probably not. Source: [link to source]" |
 | 4 | "As a new student, which courses should I take?" | "As a new student, you should consider taking CS 161 and CS 225. Source: [link to source]" |
-| 5 | "Should I take CS 332 and CS 432 as my electives?" | "Student sentiment is mixed based on reviews, so you might want to consider your interests and career goals. Source: [link to source]" |
+| 5 | "Should I take CS 332 intro to data sciences worth it?" | "Student sentiment is mixed based on reviews, so you might want to consider your interests and career goals. Source: [link to source]" |
 
 ---
 
