@@ -1,0 +1,68 @@
+AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development
+
+---
+
+Hello! 
+Mostly I've been a lurker of this sub for several years now, because it seems to be more post bachelor related than the 4 year online bachelor CS degree, which I'm in, I started it 3 years ago, and I'm down to my last 6 classes. I've been taking 3 at a time, while working full time job as a SWE and wrangling 4 kids and a home life, which basically means I'm feeling the burn here at the end! I'm in CS373, Defense Against the Dark Arts which I hoped would be allot more programming but is primarily a writing class in my opinion, CS321 Intro to Computational Theory, which is just Discrete Math 2.0, and my final bacc core class that I had to knock out. So basically 3 classes that were primarily writing based....blah.
+My question is has anyone taken the AI 531 course? I know it's a grad level course but I got permission to take it in lieu of something else, and I'm not sure what to expect, coding, writing? Are 464/492/493 mostly programming based? The course explorer seems to point to 464, 492, 493 being mostly coding, but I'm not sure on 370, 427 from the reviews? Any insight would be awesome, I've really enjoyed all the classes that were primarily coding based so far and have learned a ton that I was able to apply to my day job!
+Thanks
+
+---
+
+[In reply to: "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development"]
+
+I think cloud is the safest bet out of all of those! I’ve heard mixed things about all others. I’m a post bacc, and I took networks (it’s an elective for us for some reason) in order to take cloud
+
+---
+
+[In reply to: "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development"]
+
+I just want to say you inspire me! What a load you are able to juggle. You are doing great, keep it up!
+
+---
+
+[In reply to: "I just want to say you inspire me! What a load you are able to juggle. You are doing great, keep it up!"]
+
+Thanks!
+
+---
+
+[In reply to: "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development"]
+
+Looking back, cloud was a very useful course for my career.
+
+---
+
+[In reply to: "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development"]
+
+Mobile was a few small Android apps, primarily using Google's tutorials for me a few years back. I'm surprised you got dark arts before intro to security, since I did into before dark arts. Anyway, dark arts is a whole lot of BS, as you know. Intro was less of that, but you could totally be bitten by your program not decoding/cracking in time if you're the type to do everything last-minute. Cloud was a lot like mobile in that you're going to be friends with Google's tutorials. I found it hard to get used to the cloud console, but once it clicked, it got easier.
+
+---
+
+[In reply to: "Mobile was a few small Android apps, primarily using Google's tutorials for me a few years back. I'm surprised you got dark arts before intro to security, since I did into before dark arts. Anyway, dark arts is a whole lot of BS, as you know. Intro was less of that, but you…"]
+
+dark arts isn't what is used to be. Scott Kerlin took over and has been revamping it. No more 15 year old McAfee videos.
+
+---
+
+[In reply to: "AI531 Agents, Search, Reasoning; CS370 Into to Security; CS427 Cryptography; CS464 Open Source; CS492/493 Mobile/Cloud Development"]
+
+How is cs 332 and 432? I'm curious to know if they are worth it.
+
+---
+
+[In reply to: "How is cs 332 and 432? I'm curious to know if they are worth it."]
+
+You'll have to remind me what each of those are.
+
+---
+
+[In reply to: "You'll have to remind me what each of those are."]
+
+those are the applied data science intro  classes (Intro to applied data science and intro to applied machine learning) and then 435 applied deep learning
+
+---
+
+[In reply to: "those are the applied data science intro  classes (Intro to applied data science and intro to applied machine learning) and then 435 applied deep learning"]
+
+I have not taken those, my apologies.

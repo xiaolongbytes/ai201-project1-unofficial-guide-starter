@@ -1,0 +1,93 @@
+Did they revamp CS 372 (Introduction to Computer Networks)?
+
+---
+
+Based on this
+thread
+, the class is horrific. Yet, I see 2 good reviews from this past December (2025) on Course Explorer. Did they change/revamp the class or it's just difference in opinion?
+Should I take it or 381 (Programming Language Fundamentals), which does not have exams?
+Thanks in advance!
+Edit
+For context, 372 (Networks) used to be taught by Samina Ehsan and Eric Muhati but is taught by
+Stephen Redfield
+this Spring (2026). So, I'm not sure if it still has exams. 372 (Prog. Fund) is taught by
+Joseph Jess
+(same instructor from last semester.)
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+Bro, Samina is ass. Horrible lecturer and super annoying voice.
+If you get Redfield teaching the course that would be ideal. I had him for Computer Architecture and he was an all around amazing dude. Can’t recommend him enough.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I can't comment on a revamp or not, but I am in the class now.
+Lecture content is ok, but the book readings are required so the lectures don't cover everything... We have weekly summary exercises due every Sunday. You get two attempts and each attempt has a 2 hour time limit. They definitely pack a punch though, the first week's exercises felt like an exam. Each one after that has felt somewhat like an exam as well but so far the first was the worst. I easily spend about 2 - 3 hours on these exercises alone. Additionally, they're not completely 1:1 with lectures or the book. Sometimes there are questions that I find are in the next week's lecture content, not the week that we are being assessed on...
+Labs/assignments haven't been too difficult, though.
+Revamp or not, it is still a pretty heavy class and I would recommend pairing it with a light course.
+
+---
+
+[In reply to: "I can't comment on a revamp or not, but I am in the class now.
+Lecture content is ok, but the book readings are required so the lectures don't cover everything... We have weekly summary exercises due every Sunday. You get two attempts and each attempt has a 2 hour time limit.…"]
+
+seconded. i wouldn’t say the class is poorly taught - i wouldn’t necessarily say it’s well taught either. it isn’t even a difficult class per se, but the most important thing about the class is that there’s a lot content and a lot of work is required on the part of the student to retain it all
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I made the original post. I actually liked networks ha, took it last quarter. It’s fundamental knowledge and hammered down on concepts you see throughout this program like HTTP, TCP/UDP, etc. HOW THE INTERNET WORKS! Also, if you take OS before it, you’ll have a leg up. Math does suck in the class, but that’s it.
+I very much dislike mobile tho.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I haven’t taken 372 but I had Samina for 225, super nice lady but explanations were just reading the bullet points.
+It’s got to be an upgrade if someone else is teaching it.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I don't usually jump in on these kinds of things but I hate this class. I don't mind readings, but the weekly exercises require you to understand math that isn't really taught, and while you can logic your way through a lot of it, it's painful. The book isn't bad, just dense, and the reading takes quite some time to get through. I'm in the middle of the second programming assignment now and it's unintelligible. The annoying part is, I feel like I do understand the concepts we're supposed to know, but the weekly exercises and programming projects aren't checking for that knowledge because it's easier to get a pass/fail type of answer on a math problem. The labs are fine but as others mention, straight from the textbook authors and you don't need this class to do the lab.
+If you do decide to take it, consider taking it alone or paired with something really, really easy. Or, get the textbook and just spend some time reading it and watching the lectures from the author on YouTube, and skip the class.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I took Winter 2026 and it was my favorite class of the program so far. The lectures and summary exercises are bad, but the textbook, labs, and programming assignments are really good. Learning this material will make you a better programmer, full stop.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+The class and its content is good. I’m glad I took it, especially since 493 was so good.
+Caveat: I used the textbook author’s video lectures on YouTube almost exclusively instead of the canvas lectures.
+Exams were fine. No need to avoid the class due to it having exams.
+
+---
+
+[In reply to: "Did they revamp CS 372 (Introduction to Computer Networks)?"]
+
+I would not base my evaluation of a class on reddit posting, honestly.  You have a biased sample size of people who are more likely to complain.
+372 course material is comprehensive -- you're not going to get spoonfed everything you need to know in the lectures.  You do need to use the lectures, the textbook, and you can cite additional helpful sources as needed, while doing projects.  The weekly summary exercises are time-consuming and take a good amount of work.  The projects take even more work, because you are expected to figure it out.  The exams were the easiest part of this class.
+
+---
+
+[In reply to: "I would not base my evaluation of a class on reddit posting, honestly.  You have a biased sample size of people who are more likely to complain.
+372 course material is comprehensive -- you're not going to get spoonfed everything you need to know in the lectures.  You do need to…"]
+
+Can you compare to a non-elective?
+
+---
+
+[In reply to: "Can you compare to a non-elective?"]
+
+I can, but in the sense that it is different from all the non-electives (I've taken all of them except capstone).  Specifically, it does not contain all the information you need to know in the lectures (but the lectures do contain necessary information less easily found elsewhere), and there's an outsized amount of textbook reading expected to be able to synthesize all the information for projects.

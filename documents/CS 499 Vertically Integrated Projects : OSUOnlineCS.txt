@@ -1,0 +1,17 @@
+CS 499 Vertically Integrated Projects
+
+---
+
+I recently learned about CS 499 VIP program which you can take 1-2 credits per quarter. If you have 4 credits, it can substitute for CS 467 Capstone. I haven't found any reviews about this VIP pilot program. Can someone who have taken it share feedbacks? What does a typical workload/assignment and grading  look like? Is it individual or team work? Do you enjoy the class? TIA
+
+---
+
+[In reply to: "CS 499 Vertically Integrated Projects"]
+
+I can comment on this as I completed it. In my opinion it is a great alternative to the capstone requirement. It is a more flexible and longer term way to get some hands on skills. However, the competition is fierce as not everyone is selected. This is key, only a few people were allowed to do this and it involved showing that you can code well and have enough courses under your belt. What helped my application was the successful completion of CS 406 Projects. Day to day, for my section, a sub part of the larger team we built out modules for a web application. At the time, we had no database and nothing was reactified so we were all creating this stuff blind. The second term things were redactores into React so we didn't need to use a separate project to demo our progress and we had a database too. During my final time, I was reimplementing what I already did without the database to align with the database. Although I didn't finish, I paved the way for another developer to take over. Overall a good experience that I can put on my resume to show longer term team oriented experience. However, VIP might have been a trial or a by-project initiative (where if there are no projects via faculty then no VIP), this can explain why it may not always be available.
+
+---
+
+[In reply to: "I can comment on this as I completed it. In my opinion it is a great alternative to the capstone requirement. It is a more flexible and longer term way to get some hands on skills. However, the competition is fierce as not everyone is selected. This is key, only a few people…"]
+
+Thank you for your reply. This sounds like a very interesting and helpful experience to participate in a real life project.

@@ -1,0 +1,66 @@
+Computer Science - Applied Major (BS, HBS)
+This program is available at the following location:
+Ecampus
+This major is restricted to postbaccalaureate students.
+This major is for postbaccalaureate students who have already completed a bachelor's degree.
+Since computer science is relevant in so many diverse disciplines, students can obtain a computer science degree in combination with virtually any other degree. Those who already hold a bachelor’s degree—a BA or BS—from an accredited institution can add to their existing skill set and enhance their job prospects by earning a computer science degree online from OSU. The program of study includes the core courses in computer science, and also includes courses at the leading edge of computing technologies, software design, web development, and mobile/cloud computing.
+All of the courses in the Computer Science - Applied degree are offered through Ecampus, and most of the courses are also offered on-campus. This degree requires students to be enrolled as online students selecting DSC-Distance Degree Corvallis as their campus.
+Major Code: A049
+Upon successful completion of the program, students will meet the following learning outcomes:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+Communicate effectively in a variety of professional contexts.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+Course List
+Code
+Title
+Credits
+Required Core
+CS 161
+INTRODUCTION TO COMPUTER SCIENCE I
+4
+CS 162
+INTRODUCTION TO COMPUTER SCIENCE II
+4
+CS 225
+DISCRETE STRUCTURES IN COMPUTER SCIENCE
+4
+or
+MTH 231
+ELEMENTS OF DISCRETE MATHEMATICS
+CS 261
+DATA STRUCTURES
+4
+CS 271
+COMPUTER ARCHITECTURE AND ASSEMBLY LANGUAGE
+4
+CS 290
+WEB DEVELOPMENT
+4
+CS 325
+ANALYSIS OF ALGORITHMS
+4
+CS 340
+INTRODUCTION TO DATABASES
+4
+CS 361
+SOFTWARE ENGINEERING I
+4
+CS 362
+SOFTWARE ENGINEERING II
+4
+CS 467
+ONLINE CAPSTONE PROJECT
+4
+Applied Electives
+Select 16 upper-division CS credits
+16
+Remaining Credits
+1
+120
+Total Credits
+180
+1
+Post-baccalaureate students admitted into the program should have already satisfied this requirement (Core Ed and electives)
+Major Code: A049
+Degree plans are subject to change and the following is only an example of how students may complete their degree in four years. Students should consult their advisor to determine the best degree plan for them. Contact details for advisors can be found on the

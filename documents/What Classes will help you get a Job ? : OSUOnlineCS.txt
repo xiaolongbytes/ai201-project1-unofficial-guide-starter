@@ -1,0 +1,93 @@
+What Classes will help you get a Job ?
+
+---
+
+I need to plan out degree completion stuff and it has me panicking. I am scared that by the time I finish my degree I will know nothing and have forgotten everything. I am not sure which classes are essential to know and which ones are basically just not used in the real world.
+My retention rate from the classes I have taken isn't great. It scares me. Idk how I will ever pass an interview, let alone do well at a job, if I can't do my job properly.
+Questions:
+I would like to know mainly which courses I should take that will help me a lot in the real world?
+I also know that practice is what helps the best, but what sort of projects should I work on that would help me understand real-world scenarios I will work with in the real world ?
+
+---
+
+[In reply to: "What Classes will help you get a Job ?"]
+
+Your capstone.
+90% of the courses in this program are mediocre at best. Take what you get from them, do your own learning, and then bake that knowledge into a project.
+Then when the next course comes around bake the knowledge you get into the same project as before. Now you got a stew going.
+Then bring all of that cumulative knowledge from that project into a new project - your capstone.
+This is the way.
+
+---
+
+[In reply to: "Your capstone.
+90% of the courses in this program are mediocre at best. Take what you get from them, do your own learning, and then bake that knowledge into a project.
+Then when the next course comes around bake the knowledge you get into the same project as before. Now you got…"]
+
+I know nothing of the capstone and what is expected of you ?
+Do they make it clear like the minimum requirements and what is recommended?
+I'm not sure how much of it is leaving it up to yourself/your own devices. Is it group project (I hope the fuck not).
+Thank you, BTW.
+
+---
+
+[In reply to: "I know nothing of the capstone and what is expected of you ?
+Do they make it clear like the minimum requirements and what is recommended?
+I'm not sure how much of it is leaving it up to yourself/your own devices. Is it group project (I hope the fuck not).
+Thank you, BTW."]
+
+The capstone will be something you'll have to do on your final three semesters. From what I heard its basically a project you can pick as well as the people to work with
+
+---
+
+[In reply to: "The capstone will be something you'll have to do on your final three semesters. From what I heard its basically a project you can pick as well as the people to work with"]
+
+Finishing mine right now. The details are under an NDA, but essentially it's an algorithmic trading platform. Fun stuff
+
+---
+
+[In reply to: "Finishing mine right now. The details are under an NDA, but essentially it's an algorithmic trading platform. Fun stuff"]
+
+Did the school provide you with the project, or did you have to find it?
+
+---
+
+[In reply to: "Did the school provide you with the project, or did you have to find it?"]
+
+It was on the list the school provided
+
+---
+
+[In reply to: "What Classes will help you get a Job ?"]
+
+You will remember somethings and forget most of it.
+Do you think you can retain 11 weeks of information easily? No one can man, only some freaks can and even then they probably dont use it all. Alot of courses end up reminding you of certain things because many things dont stay fresh.
+Dont worry so much man, just take the things that interest you, its dumb to take things because of a job choice. All the core classes are pretty much the only ones you truly need, anything else is just fluff padded out to make the tuition cost greater.
+If you take courses thst dont interest you cause some random joe schoomoe told you itd worthh it you'll hate it and then you'll have to slog through some wack ass course that you dont like.
+I personally took as many low level and mathematical courses I could take cause that interest me, if I was interested in other things id go for that instead.
+
+---
+
+[In reply to: "What Classes will help you get a Job ?"]
+
+It depends on what job you have. There’s a wide variety of career paths you can take that do not overlap.
+CodePath offers free classes as well for a bunch of topics, and I found them valuable.
+Also, a lot of the most valuable learnings are outside of classes. Classes are just the beginning/intro. You have to practice it on your own.
+
+---
+
+[In reply to: "What Classes will help you get a Job ?"]
+
+Leetcode
+
+---
+
+[In reply to: "What Classes will help you get a Job ?"]
+
+The only classes I took that were slightly relevant to work are:
+Projects (basically make a personal project and record weekly updates for the instructor for accountability)
+Capstone (basically a preview of what hackathons are like, which sometimes happens at work)
+Databases (SQL is eternal)
+Fundamentals of Programming Languages (basically learn how to learn new programming languages)
+Academic classwork is not representative of real work. Most of my time at work involves adding new features/bugfixes to huge existing codebases, helping other people troubleshoot their problems, meetings, code review, performance management, corporate volunteering, compliance coursework. There wasn't a single course at OSU that really covered any of those things. There will never be a situation where you just build an app by yourself that has a very strict list of requirements, like you will in almost every single OSU class. In actual jobs you need to work with downstream customers of your code to give them what they want, and also hassle the people upstream of you, to give you the support that you need to do your job.
+Employers do not care about your classwork. They know that its not really relevant to what daily work is really like. Employers just want to make sure that you can learn new things easily, and can troubleshoot problems by yourself. For context, I did Devops for one year, and now I'm doing Data Engineer.

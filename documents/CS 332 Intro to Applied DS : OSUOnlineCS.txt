@@ -1,0 +1,46 @@
+CS 332 Intro to Applied DS
+
+---
+
+Hi, I'm looking into my course options for my last three quarters. I know that CS 332 and 432 are relatively new courses now. Has anyone taken these courses, and what were your thoughts? Otherwise, I may take Networking and Cloud instead.
+I am leaning towards these courses since I am interested in Data Science.
+
+---
+
+[In reply to: "CS 332 Intro to Applied DS"]
+
+I registered for it for last winter term. I registered in November 2024, and the instructor opened the course in canvas in December, so I had the entire winter break to go over it and ended up dropping it first week. I took CS381 in the Spring instead.
+I personally, did not like it. It was filled with busy work discussion posts assignments and a lot of minimum word and page count writing assignments. Also, all coding lessons are links to free online tutorials.
+These course are “Applied” so it will really touch the surface and won’t reach you the foundations. I don’t think it is worth $2k. Everything in this course offers in terms of teaching material is available online for free online, unless you really like discussion posts and writing assignments.
+
+---
+
+[In reply to: "CS 332 Intro to Applied DS"]
+
+I took this class in Winter 2025. Essentially, you spend the whole term creating a data science report on a topic that you choose, and you write the report in sections spread over the term. You can make this class easy or hard based on the topic that you choose (You don't have topics to choose from. You have to figure out your topic yourself). The report is split into the following sections and each section is done over 1-2 weeks: Topic Introduction, Data Gathering (need at least 3 data sources including data gathered from an API), Data Cleansing, Data Analysis (using Supervised and Un-Supervised analysis methods), Conclusion.
+Overall, the course was okay. There are weekly assignments where you learn Data Gathering, Data Cleansing, and Data Analysis methods, and these assignments use the same data set every week. This is both good and bad. It's good because the data set becomes familiar, and it's bad because you end up redoing some of the same things every week. For each assignment, you have to submit a report where you explain each step that you took to gather, cleanse, and analyze the data. I didn't like this part very much since it got very repetitive and there was a lot of copying and pasting. It's hard to know if that's actually how Data Science is done on the job.
+Like many of the other courses, there are some meaningless discussion posts every couple weeks. If you're actually interested in pursuing Data Science, it might be worthwhile to take.
+
+---
+
+[In reply to: "I took this class in Winter 2025. Essentially, you spend the whole term creating a data science report on a topic that you choose, and you write the report in sections spread over the term. You can make this class easy or hard based on the topic that you choose (You don't have…"]
+
+Thanks for the quick overview. I'll take this into consideration
+
+---
+
+[In reply to: "CS 332 Intro to Applied DS"]
+
+The intro to DS course is brand new right, as in this is the first quarter? I also want to do it, but looks like it’s full and only two sections
+
+---
+
+[In reply to: "The intro to DS course is brand new right, as in this is the first quarter? I also want to do it, but looks like it’s full and only two sections"]
+
+I think it was initially offered as CS 399 in Winter 2025. So, I am hoping to see if it is worth taking.
+
+---
+
+[In reply to: "CS 332 Intro to Applied DS"]
+
+Both Networking and Cloud are great classes.

@@ -1,0 +1,90 @@
+Finally accepted! Winter 2026 start
+
+---
+
+After a month of waiting on the decision, I finally got accepted!! I’m super excited to start but I have some questions/concerns before everything starts up.
+I have zero tech background, and I wanted to take two classes per semester. Could someone give me a rundown of their degree plan/what classes they took first? Also, what two classes paired well with each other and what didn’t?? I work 40 hours a week so I didn’t want to put two classes together that are way too time consuming, but that I can also finish in two years.
+I will be doing the Ecampus route. What’s your setup? Does Mac work well for this course or windows work better??
+Thank you for your help and comments!!
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+I had my quarters all planned out my first quarter.
+And that plan changed every single quarter.
+See how you feel about CS 161+225 and calibrate from there. 225 (discrete math) is one of the hardest and time consuming classes in the program. 271, 261, 374 also tend to be harder.
+The advisors can usually tell you which classes are challenging. Also check out the course analytics/review links and discord in the side bar.
+Macs are great for cs.
+
+---
+
+[In reply to: "I had my quarters all planned out my first quarter.
+And that plan changed every single quarter.
+See how you feel about CS 161+225 and calibrate from there. 225 (discrete math) is one of the hardest and time consuming classes in the program. 271, 261, 374 also tend to be…"]
+
+Which course analytics links? I remember there used to be really helpful site that aggregated I think the google survey results into nice pie charts and stuff, but I don't think that's linked anywhere in the reddit anymore? The closest thing I see is that google spreadsheet with the form results.
+Edit: Nvm! My reddit search fu finally clicked and found two options in a thread titled "Course Analytics: an alternative to Course Explorer" (for anyone else who might want to find these).
+
+---
+
+[In reply to: "I had my quarters all planned out my first quarter.
+And that plan changed every single quarter.
+See how you feel about CS 161+225 and calibrate from there. 225 (discrete math) is one of the hardest and time consuming classes in the program. 271, 261, 374 also tend to be…"]
+
+Any tips for surviving CS 225?
+
+---
+
+[In reply to: "Any tips for surviving CS 225?"]
+
+Professor V’s office hours are a god send. Go to every one you can.
+Also Kimberly Brehm on YouTube has lectures that match the textbook sections.
+Start early and don’t fall behind.
+
+---
+
+[In reply to: "Professor V’s office hours are a god send. Go to every one you can.
+Also Kimberly Brehm on YouTube has lectures that match the textbook sections.
+Start early and don’t fall behind."]
+
+[deleted]
+
+---
+
+[In reply to: "[deleted]"]
+
+Ugh I took it 2 years ago, I have no clue. The course analytics link in the sidebar has time estimates though.
+But yeah, it’s just a boatload of homework.
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+You can only take 2 classes during your first two quarters I believe since pre-reqs for the higher division courses. Do not take 225 over summer. That class is such a time sink, insane. Would get familiar with Python and PyCharm/VS code environment for coding. Don’t dive too deep into it but it’s nice to be familiar with something rather than coming in fresh.
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+Mac is fine, you can read through the subreddit and talk with your advisor to get answers on the rest. 
+Buckle up. First quarter is rough but it’s better after that.
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+Remember you can transfer units into the program which can save a good chunk of money and also allow you to avoid some of the bad courses in the program by taking them elsewhere. Lots of advice of which courses should be transferred, which you can find by googling. Also, make sure to join the programs discord. Tons of great advice there.
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+Congrats, I started this semester, also working 40 hours and decided to only take 2 classes (CS161 & CS225). I'm using a Macbook.
+
+---
+
+[In reply to: "Finally accepted! Winter 2026 start"]
+
+Avoid taking 325 and 374 together, both can be content heavy and difficult.
+271 is time consuming but overall well taught, I paired it with CS 162 last Fall. If you can, take 271 during the summer as there will be no exams for this class during the summer.

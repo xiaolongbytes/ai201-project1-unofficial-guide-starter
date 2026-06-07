@@ -1,0 +1,79 @@
+[
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__0",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 0,
+    "text": "CS 332 Intro to Applied DS",
+    "char_length": 26
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__1",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 1,
+    "text": "Hi, I'm looking into my course options for my last three quarters. I know that CS 332 and 432 are relatively new courses now. Has anyone taken these courses, and what were your thoughts? Otherwise, I may take Networking and Cloud instead.\nI am leaning towards these courses since I am interested in Data Science.",
+    "char_length": 312
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__2",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 2,
+    "text": "[In reply to: \"CS 332 Intro to Applied DS\"]\n\nI registered for it for last winter term. I registered in November 2024, and the instructor opened the course in canvas in December, so I had the entire winter break to go over it and ended up dropping it first week. I took CS381 in the Spring instead.\nI personally, did not like it. It was filled with busy work discussion posts assignments and a lot of minimum word and page count writing assignments. Also, all coding lessons are links to free online tutorials.\nThese course are “Applied” so it will really touch the surface and won’t reach you the foundations. I don’t think it is worth $2k. Everything in this course offers in terms of teaching material is available online for free online, unless you really like discussion posts and writing assignm",
+    "char_length": 800
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__3",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 3,
+    "text": "ndations. I don’t think it is worth $2k. Everything in this course offers in terms of teaching material is available online for free online, unless you really like discussion posts and writing assignments.",
+    "char_length": 205
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__4",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 4,
+    "text": "[In reply to: \"CS 332 Intro to Applied DS\"]\n\nI took this class in Winter 2025. Essentially, you spend the whole term creating a data science report on a topic that you choose, and you write the report in sections spread over the term. You can make this class easy or hard based on the topic that you choose (You don't have topics to choose from. You have to figure out your topic yourself). The report is split into the following sections and each section is done over 1-2 weeks: Topic Introduction, Data Gathering (need at least 3 data sources including data gathered from an API), Data Cleansing, Data Analysis (using Supervised and Un-Supervised analysis methods), Conclusion.\nOverall, the course was okay. There are weekly assignments where you learn Data Gathering, Data Cleansing, and Data Anal",
+    "char_length": 800
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__5",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 5,
+    "text": "ata Analysis (using Supervised and Un-Supervised analysis methods), Conclusion.\nOverall, the course was okay. There are weekly assignments where you learn Data Gathering, Data Cleansing, and Data Analysis methods, and these assignments use the same data set every week. This is both good and bad. It's good because the data set becomes familiar, and it's bad because you end up redoing some of the same things every week. For each assignment, you have to submit a report where you explain each step that you took to gather, cleanse, and analyze the data. I didn't like this part very much since it got very repetitive and there was a lot of copying and pasting. It's hard to know if that's actually how Data Science is done on the job.\nLike many of the other courses, there are some meaningless discu",
+    "char_length": 800
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__6",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 6,
+    "text": "t very repetitive and there was a lot of copying and pasting. It's hard to know if that's actually how Data Science is done on the job.\nLike many of the other courses, there are some meaningless discussion posts every couple weeks. If you're actually interested in pursuing Data Science, it might be worthwhile to take.",
+    "char_length": 319
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__7",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 7,
+    "text": "[In reply to: \"I took this class in Winter 2025. Essentially, you spend the whole term creating a data science report on a topic that you choose, and you write the report in sections spread over the term. You can make this class easy or hard based on the topic that you choose (You don't have…\"]\n\nThanks for the quick overview. I'll take this into consideration",
+    "char_length": 361
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__8",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 8,
+    "text": "[In reply to: \"CS 332 Intro to Applied DS\"]\n\nThe intro to DS course is brand new right, as in this is the first quarter? I also want to do it, but looks like it’s full and only two sections",
+    "char_length": 189
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__9",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 9,
+    "text": "[In reply to: \"The intro to DS course is brand new right, as in this is the first quarter? I also want to do it, but looks like it’s full and only two sections\"]\n\nI think it was initially offered as CS 399 in Winter 2025. So, I am hoping to see if it is worth taking.",
+    "char_length": 267
+  },
+  {
+    "chunk_id": "CS 332 Intro to Applied DS : OSUOnlineCS__10",
+    "source": "CS 332 Intro to Applied DS : OSUOnlineCS",
+    "chunk_index": 10,
+    "text": "[In reply to: \"CS 332 Intro to Applied DS\"]\n\nBoth Networking and Cloud are great classes.",
+    "char_length": 89
+  }
+]
