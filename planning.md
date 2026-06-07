@@ -9,7 +9,11 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+"Should I take X course? Is the course good? Is it worth it?"
+
+This sort of information is passed down via word of mouth, student to student. However, if a student is new or not well connected, they're missing out on these insights. They also might not be aware of subreddits, chat groups, and other student built online resources.
+It's also very difficult when planning to know if the course you're planning to take is offered in the term you are planning to take it.
+Includes supplemental course opportunities outside of the curriculum.
 
 ---
 
@@ -20,16 +24,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Student built course survey | Google sheet of informal course survey results | https://docs.google.com/spreadsheets/d/1MFBGJbOXVjtThgj5b6K0rv9xdsC1M2GQ0pJVB-8YCeU/edit?gid=2042942971#gid=2042942971 |
+| 2 | OSU Requirements | Lists all required courses | https://catalog.oregonstate.edu/college-departments/engineering/school-electrical-engineering-computer-science/computer-science-applied-bs-hbs/#requirementstext |
+| 3 | OSU CS Course Schedule | Lists every course and when it's offered in the coming year | https://ecampus.oregonstate.edu/soc/ecatalog/ecourselist.htm?termcode=all&subject=CS |
+| 4 | OSU subreddit | Thread showing a free alternative for CS290 | https://www.reddit.com/r/OSUOnlineCS/comments/1s2bsn9/everyone_should_be_taking_full_stack_open/ |
+| 5 | OSU subreddit | Thread with class advice for new student | https://www.reddit.com/r/OSUOnlineCS/comments/1nscw8b/finally_accepted_winter_2026_start/ |
+| 6 | OSU subreddit | Thread about CS 373 | https://www.reddit.com/r/OSUOnlineCS/comments/1lo19nj/cs_373_what_in_the_actual_f/ |
+| 7 | OSU subreddit | Thread about CS 467 | https://www.reddit.com/r/OSUOnlineCS/comments/1m7cr4l/cs_467_thougts/ |
+| 8 | OSU subreddit | Thread about CS 332 | https://www.reddit.com/r/OSUOnlineCS/comments/1mhx9ss/cs_332_intro_to_applied_ds/ |
+| 9 | OSU subreddit | Thread about CS 499 | https://www.reddit.com/r/OSUOnlineCS/comments/1mxmr0k/cs_499_vertically_integrated_projects/ |
+| 10 | OSU subreddit | Thread about what courses help you find a job | https://www.reddit.com/r/OSUOnlineCS/comments/1tlqxo9/what_classes_will_help_you_get_a_job/ |
+| 11 | OSU subreddit | Thread about CS 332 and CS 432 | https://www.reddit.com/r/OSUOnlineCS/comments/1si34b9/cs332_intro_to_data_science_and_cs432_intro_to/ |
+| 12 | OSU subreddit | Thread about CS 372 | https://www.reddit.com/r/OSUOnlineCS/comments/1qyz9qb/did_they_revamp_cs_372_introduction_to_computer/ |
+| 13 | OSU subreddit | Thread about AI531, CS 370, CS 427, CS 464, CS 492, CS 493 | https://www.reddit.com/r/OSUOnlineCS/comments/1pdjhdf/ai531_agents_search_reasoning_cs370_into_to/ |
 
 ---
 
